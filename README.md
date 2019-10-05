@@ -27,3 +27,4 @@ get-vmhost
 |item|category|price|
 |----|--------|-----|
 |1   |animals |200$ |
+|2   |gggg    |300$ |
