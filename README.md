@@ -12,3 +12,18 @@ _this is my firts repo_
 
 ![my photo](https://media.licdn.com/dms/image/C5603AQGTlzqhVrgquA/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=CT0YelUqqQfuo71OvMgjxlFFSqmsgtw7RbxU9hULc-g)
 
+> test 
+
+> hhcdsc
+
+dhgcfdc`get-vm "VM1"`
+
+```powershell
+get-vm
+get-vmhost
+```
+---
+
+|item|category|price|
+|----|--------|-----|
+|1   |animals |200$ |
