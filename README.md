@@ -1,6 +1,6 @@
 simple this is my firts repo
 
-[Go to Real Cool Heading section](# real-cool-heading)
+[Go to Real Cool Heading section](#real-cool-heading)
 
 # this is my firts repo
 ## this is my firts repo
